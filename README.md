@@ -1,6 +1,8 @@
 # DSA CPP Solved VS Code
 
-This repository contains a collection of Data Structures and Algorithms (DSA) problems and concepts implemented in C++. It serves as a personal codebase for learning and practicing DSA.
+This repository contains a collection of Data Structures and Algorithms (DSA) problems and concepts implemented in C++.
+
+> **Note**: All the code in this repository was written entirely by me during my second year of college. This collection represents my personal practice and learning journey before I was introduced to platforms like LeetCode.
 
 ## 📂 Repository Structure
 
